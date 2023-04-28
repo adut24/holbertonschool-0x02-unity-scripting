@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
 	private float verticalInput;
 	public float speed;
 	public float groundDrag;
-	private int score;
+	private int score = 0;
 	public int health = 5;
 
 	private void Start()
