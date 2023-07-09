@@ -21,7 +21,7 @@ Inside the `maze` scene, create a Sphere GameObject named `Player` with a Rigidb
 - Position: `(23, 1.2, 16)`
 - Scale: `(2, 2, 2)`
 - Material Name: `player`
--Material Color: `#0000FFFF`
+- Material Color: `#0000FFFF`
 
 ![Maze](https://s3.eu-west-3.amazonaws.com/hbtn.intranet.project.files/holbertonschool-cs-unity/421/unity-scripting_0.png)
 
